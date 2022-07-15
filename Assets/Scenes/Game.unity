@@ -150,6 +150,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d1220a7c5e3ef14a9df2d92c2a317d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tanklist:
+  - movementSpeed: 30
+    rotationSpeed: 75
+    tankType: 0
+  - movementSpeed: 10
+    rotationSpeed: 50
+    tankType: 1
+  - movementSpeed: 60
+    rotationSpeed: 120
+    tankType: 2
   tankView: {fileID: 1118338002719191410, guid: 60ccb74380bb5dd42b5aed672efc2c64,
     type: 3}
 --- !u!4 &231675919
